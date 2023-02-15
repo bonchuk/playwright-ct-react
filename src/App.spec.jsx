@@ -10,5 +10,4 @@ test('First Test of the component', async ({ mount }) => {
   expect(await component.locator('.App-logo').screenshot({
     animations: "disabled"
   })).toMatchSnapshot()
-
 })
