@@ -1,0 +1,11 @@
+.container {
+  background-color: purple;
+  padding: 20px;
+}
+
+.title {
+  font-size: 48px;
+  font-weight: bold;
+  text-align: center;
+  color: white;
+}
