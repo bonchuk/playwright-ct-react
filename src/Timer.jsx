@@ -15,7 +15,7 @@ function Timer() {
 
   return (
     <div className= {styles.container}>
-      <h1 className={styles.title}>I have rendered {count} times!</h1>
+      <h1 className={`${styles.font}`}>I have rendered {count} times!</h1>
     </div>
   )
 }
